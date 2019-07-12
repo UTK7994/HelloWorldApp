@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         TextView t = findViewById(R.id.age);
         t.setText(String.valueOf(age));
         Toast.makeText(MainActivity.this, "Age is :" + age, Toast.LENGTH_SHORT).show();
-        // this is a comment
+        // this is first comment
         // this is second commit
     }
 
