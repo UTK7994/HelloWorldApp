@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         t.setText(String.valueOf(age));
         Toast.makeText(MainActivity.this, "Age is :" + age, Toast.LENGTH_SHORT).show();
         // this is a comment
+        // this is second commit
     }
 
     @Override
